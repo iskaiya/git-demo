@@ -1,6 +1,7 @@
 "# Git Demo Project This is a demo repository to practice Git commands, branching, and merging."
 
-Additional content added by Cielo Dela Cruz
 Additional content added by Eujen Gonzales
 Additional content added by Gale Agasino
 Additional content added by Cyrus Silvor
+Additional content added by Cielo Dela Cruz
+
